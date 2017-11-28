@@ -4,7 +4,8 @@ public class Git {
 
 	public static void main(String[] args) {
 		Add();
-		
+		int a = 20;
+		System.out.println(a);	
 
 	}
 	public static void Add(){
